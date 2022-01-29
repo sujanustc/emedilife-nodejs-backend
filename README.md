@@ -7,11 +7,7 @@ Code Live Link:
 
 ## Development By
 
-1.  NAME: Md Mizanur Rahaman
-    Email: <mizanurrahaman@gmail.com>
-    Website: [Easy Coding Course](https://easycodingcourse.com)
-
-2.  NAME: Sujan Das
+1.  NAME: Sujan Das
     Email: <dasujandb@gmail.com>
 
 
